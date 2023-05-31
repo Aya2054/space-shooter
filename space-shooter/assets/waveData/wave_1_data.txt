@@ -1,0 +1,62 @@
+
+2
+Small
+100
+150
+200
+100
+Next wave
+4
+Medium
+100
+100
+120
+130
+140
+150
+160
+170
+Next wave
+2
+Medium
+150
+560
+900
+560
+Next wave
+3
+Medium
+100
+500
+600
+500
+Big
+1300
+552
+Next wave
+5
+Medium
+150
+570
+680
+590
+Big
+650
+552
+1100
+550
+Small
+1300
+550
+Next Wave
+3
+Big
+100
+560
+Small
+500
+560
+Big
+1300
+552
+Next wave
