@@ -38,7 +38,7 @@ public class Player extends Entity {
 
         // Boucle qui crée un projectile pour chaque position de projectile disponible
         for (int i = 0; i < this.maxProjectiles; ++i) {
-// Initialise un nouvel objet Projectile avec les paramètres appropriés
+        // Initialise un nouvel objet Projectile avec les paramètres appropriés
             projectiles[i] = new Projectile(
                     this.projectileMovementSpeed, // Vitesse de déplacement du projectile
                     0.0F, // Angle initial du projectile
